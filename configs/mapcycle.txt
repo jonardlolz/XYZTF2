@@ -1,0 +1,37 @@
+// Team Fortress 2 Map Cycle
+// Vanilla+ Map Rotation - Quickplay Style
+
+// Capture Point (CP) Maps
+cp_dustbowl
+cp_gravelpit
+cp_well
+cp_badlands
+cp_granary
+cp_fastlane
+
+// Payload (PL) Maps
+pl_badwater
+pl_upward
+pl_goldrush
+pl_frontier
+
+// Capture The Flag (CTF) Maps
+ctf_2fort
+ctf_well
+ctf_turbine
+ctf_doublecross
+
+// King of the Hill (KOTH) Maps
+koth_king
+koth_sawmill
+koth_badlands
+
+// Attack/Defend (AD) Maps
+ad_power_plant
+
+// Arena Maps (Optional - can be removed if not wanted)
+arena_watchtower
+arena_badlands
+
+// Control Points Arena
+cp_mge_gg_b13
