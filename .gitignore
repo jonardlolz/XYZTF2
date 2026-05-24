@@ -1,0 +1,55 @@
+# TF2 Server - Downloaded Files (Not needed in repo)
+server_files/
+steamcmd/
+
+# Logs
+logs/
+*.log
+server_files/tf/logs/
+*.dem
+
+# Steam directory and cache
+Steam/
+.steam/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+.directory
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config backups (if user creates them)
+configs/*.backup
+configs/old_*
+
+# Runtime/PID files
+*.pid
+/tmp/srcds.pid
+
+# Node modules (if ever used)
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+
+# Server crash dumps
+crash/
+dumps/
